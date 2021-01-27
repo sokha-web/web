@@ -1,8 +1,10 @@
 .header{
-	/*position: fixed;
+	/*
+	position: fixed;
 	width: 100%;
     top: 20px;
-    left: 97px;*/
+    left: 97px;
+    border: 1px solid white;*/
 }
 .logo{
 	float: left;
@@ -156,5 +158,40 @@ float: left;
 	font-size: 22px;
 	color: #333333;
 	padding-top: 13px;
-
+}
+.wraper-box{
+	height: 350px;
+	width: 1663px;
+	background-color: #E6E6E6;
+}
+.po{
+	font-size: 24px;
+	padding-top: 28px;
+	padding-left: 98px;
+}
+.one{
+	padding-top: 40px;
+	padding-left: 89px;
+	width: 570px;
+	height: 225px;
+	float: left;
+}
+.one1{
+	font-size: 25px;
+	color: #3D58A6;
+}
+.wraper2{
+	float: left:
+	width: 570px;
+	height: 225px;
+	padding-top: 40px;
+	padding-left: 30px;
+}
+.two{
+	font-size: 25px;
+	color: #3D58A6;
+}
+.bolo{
+	margin-left: 97px;
+	margin-bottom: 21px
 }
