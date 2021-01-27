@@ -1,8 +1,8 @@
 .header{
-	position: fixed;
+	/*position: fixed;
 	width: 100%;
     top: 20px;
-    left: 97px;
+    left: 97px;*/
 }
 .logo{
 	float: left;
@@ -83,6 +83,7 @@
 	width: 254px;
 	height: 32px;
 	margin-left: 99px;
+	padding-top: 30px;
 }
 .box-1{
 	border:160px solid white;
@@ -93,9 +94,67 @@
 	margin-left: 98px;
 	margin-top: 90px;
 }
-
 .box1{
 	background-color: #BDCCD4;
 	width: 1663px;
 	height: 450px;
+}
+.p-1{
+	font-size: 24px;
+	color: #3D58A6;
+	width:225px;
+	height:32px;
+	padding-top: 30px;
+	margin-left: 98px;
+}
+.imgline{
+	padding-top:  90px;
+	padding-right: 30px;
+}
+.imgline-1{
+	padding-top:  90px;
+	padding-right: 30px;
+	padding-left: 98px;
+}
+.f{
+ float: left;
+
+}
+.f-1{
+float: left;
+}
+.f-2{
+float: left;
+}
+.f-3{
+float: left;
+}
+.pline1{
+	padding-left:121px;
+	font-size: 22px;
+	color: #333333;
+	padding-top: 13px;
+
+}
+
+.pline2{
+	
+	font-size: 22px;
+	color: #333333;
+	padding-top: 13px;
+
+}
+.pline3{
+	
+	font-size: 22px;
+	color: #333333;
+	padding-top: 13px;
+
+}
+.pline4{
+	
+	font-size: 22px;
+	color: #333333;
+	padding-top: 13px;
+
 }
